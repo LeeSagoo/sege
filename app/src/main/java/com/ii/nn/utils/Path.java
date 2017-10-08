@@ -16,7 +16,7 @@ import java.util.Locale;
  * Created by BISHOP on 2017-10-07.
  */
 
-public class Path {//dsds
+public class Path {//dsdsghh
     public static final String TAG = Path.class.getSimpleName();
     public static String[] getSDCardPath(){
         String[] externalArray;
